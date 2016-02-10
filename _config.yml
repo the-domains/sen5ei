@@ -1,7 +1,7 @@
 name: SEN5EI
 favicon: null
-layout_spectrum: 0.6049262913875282
-typography_spectrum: 0.8514629469718784
+layout_spectrum: 0.24241
+typography_spectrum: 0.25426
 title: SEN5EI
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8184530450962484
-  lightness: 0.791201988235116
-  saturation: 0.8026122418232262
+  brandStrength: 0
+  lightness: 0.125
+  saturation: 0.25
   rhythmicContrast: 0.07642841851338744
 purpose: []
