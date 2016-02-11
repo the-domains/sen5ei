@@ -1,29 +1,41 @@
-name: SEN5EI
-favicon: null
-layout_spectrum: 0.24241
-typography_spectrum: 0.25426
-title: SEN5EI
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.24241
+title: SEN5EI
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.25
+  brandStrength: 0
+  rhythmicContrast: 0.07642841851338744
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0
   lightness: 0.125
-  saturation: 0.25
-  rhythmicContrast: 0.07642841851338744
 purpose: []
+favicon: null
+name: SEN5EI
+typography_spectrum: 0.25426
